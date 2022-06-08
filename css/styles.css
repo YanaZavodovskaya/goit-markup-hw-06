@@ -1062,7 +1062,7 @@ body {
 
 .modal-input-checkbox:checked + .modal-checkbox-label::before {
   background-color: var(--accent-text-color);
-  background-image: url(/images/icon/check.svg);
+  background-image: url(../images/icon/check.svg);
   background-size: contain;
   background-origin: border-box;
   border: 2px solid var(--accent-text-color);
